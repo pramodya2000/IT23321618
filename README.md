@@ -4,7 +4,7 @@
 ### Installation
 * 1. Clone the repository
  
-  git clone <(https://github.com/Randimal441/Slinglish_translator_Automation.git)>
+  git clone <(https://github.com/pramodya2000/IT23321618.git)>
 
 * 2. Navigate into the project directory
    
